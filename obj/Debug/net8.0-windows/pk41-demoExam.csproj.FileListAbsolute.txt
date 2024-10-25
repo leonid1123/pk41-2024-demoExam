@@ -19,3 +19,4 @@ D:\repos\PK41\pk41-demoExam\bin\Debug\net8.0-windows\Microsoft.Extensions.Loggin
 D:\repos\PK41\pk41-demoExam\bin\Debug\net8.0-windows\MySqlConnector.dll
 D:\repos\PK41\pk41-demoExam\obj\Debug\net8.0-windows\pk41-demoExam.csproj.AssemblyReference.cache
 D:\repos\PK41\pk41-demoExam\obj\Debug\net8.0-windows\pk41-dem.4DAB91C2.Up2Date
+D:\repos\PK41\pk41-demoExam\obj\Debug\net8.0-windows\pk41-demoExam.sourcelink.json

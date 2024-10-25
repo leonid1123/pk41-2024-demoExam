@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\repos\\PK41\\pk41-demoExam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A4E1C2F-3E22-423C-98B2-B0E4969D5810}|pk41-demoExam.csproj|D:\\repos\\PK41\\pk41-demoExam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3A4E1C2F-3E22-423C-98B2-B0E4969D5810}|pk41-demoExam.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3A4E1C2F-3E22-423C-98B2-B0E4969D5810}|pk41-demoExam.csproj|d:\\repos\\pk41\\pk41-demoexam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A4E1C2F-3E22-423C-98B2-B0E4969D5810}|pk41-demoExam.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4E1C2F-3E22-423C-98B2-B0E4969D5810}|pk41-demoExam.csproj|d:\\repos\\pk41\\pk41-demoexam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A4E1C2F-3E22-423C-98B2-B0E4969D5810}|pk41-demoExam.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "DocumentMoniker": "D:\\repos\\PK41\\pk41-demoExam\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -34,13 +38,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\repos\\PK41\\pk41-demoExam\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "D:\\repos\\PK41\\pk41-demoExam\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAYwEUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-25T06:09:32.664Z",
               "EditorCaption": ""
