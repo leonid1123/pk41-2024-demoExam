@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pk41-demoExam")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ed9db9305fd23b67dc168bfc6c632f878ab98e0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+899ecbd35a1467faa19314a2edc1ff5984d0726a")]
 [assembly: System.Reflection.AssemblyProductAttribute("pk41-demoExam")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pk41-demoExam")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

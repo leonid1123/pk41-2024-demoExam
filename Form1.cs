@@ -103,7 +103,7 @@ namespace pk41_demoExam
                 discountLabel.Location = new System.Drawing.Point(200, 0 + i * 80);
                 discountLabel.Parent = this;
                 discountLabel.Name = "discount" + i.ToString();
-                discountLabel.Text = "Скидка:"; //вывести скидку сюда
+                discountLabel.Text = "Скидка:" + discounts[i].ToString(); //вывести скидку сюда
 
                 this.Controls.Add(nameLabel);
                 this.Controls.Add(countryLabel);
